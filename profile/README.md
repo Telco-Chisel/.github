@@ -13,3 +13,8 @@ It provides a curated arsenal of tools specifically designed to identify, analyz
 - Telephony Protocols: Osmocom, Scapy - Craft and exploit vulnerabilities in core telecom protocols like SS7, Diameter, and M3UA.
 - Packet Crafting & Injection: Ettercap, Scapy, hping3 - Craft and inject malicious packets to test network defenses.
 - Forensic Analysis: Forensics Toolkit (FTK), Wireshark - Analyze captured network traffic and logs for forensic evidence.
+
+## Stay Connected
+
+- Report issues and contribute to the project on GitHub.
+- Join the TelcoChisel community Discord.
